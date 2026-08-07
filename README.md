@@ -1,110 +1,212 @@
 # Hi 👋, I'm Saaransh Johri
 
-🎓 AI/ML Student at MIT World Peace University  
-🤖 Passionate about Artificial Intelligence, Machine Learning, and Data Science  
-🚀 Building intelligent systems and full-stack applications that solve real-world problems  
+<h3 align="center">AI Engineer • Machine Learning Developer • Full Stack Developer</h3>
+
+<p align="center">
+Building AI systems that automate real-world workflows and solve practical business problems.
+</p>
 
 ---
 
-## 🧠 Technical Skills
+## 🚀 About Me
 
-**Programming Languages**
-- Python
-- C/C++
-- JavaScript
-- SQL
+🎓 B.Tech CSE (AI & Data Science) @ MIT World Peace University (2023–2027)
 
-**AI / Machine Learning**
+💻 Passionate about
+- Artificial Intelligence
+- Agentic AI
+- Machine Learning
+- Computer Vision
+- NLP
+- Full Stack Development
+
+🌱 Currently building intelligent automation systems using
+- LLMs
+- AI Agents
+- SAP Integration
+- Workflow Automation
+- OCR
+- Docker
+- CI/CD
+
+---
+
+# 💻 Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+### AI / Machine Learning
+
 - Machine Learning
 - Deep Learning
 - Computer Vision
-- Natural Language Processing (NLP)
-- Data Analysis & Model Development
+- NLP
+- TensorFlow
+- Keras
+- OpenCV
+- Scikit-Learn
+- Pandas
+- NumPy
+- XGBoost
 
-**Web Development**
+---
+
+### Web Development
+
 - HTML
 - CSS
 - JavaScript
 - PHP
 - MySQL
-
-**Tools & Technologies**
-- Git & GitHub
-- OpenCV
-- TensorFlow / Keras
-- Data Visualization
+- Firebase
 
 ---
 
-## 🚀 Projects
+### Tools
 
-### 🎬 Movie Streaming Website – *INTERTWINED*
-- Developed a full-stack movie streaming platform.
-- Implemented user interface, backend functionality, and database management.
-- Technologies: **HTML, CSS, JavaScript, PHP, MySQL**
-
----
-
-### 🌾 Crop Yield Prediction System
-- Built a machine learning model to predict crop yield based on environmental and agricultural data.
-- Helps farmers and researchers make informed decisions.
-- Technologies: **Python, Machine Learning, Data Analysis**
+- Git
+- GitHub
+- Docker
+- n8n
+- SAP
+- VS Code
+- Jupyter Notebook
+- Google Colab
 
 ---
 
-### 🧠 Game-Based Alzheimer’s Detection System
-- Designed an interactive cognitive game system to analyze user responses and detect early signs of Alzheimer’s disease.
-- Combines **behavioral analytics with machine learning models**.
+# 🚀 Featured Projects
+
+## 🤖 MergeMind — AI Pull Request Review & CI/CD Platform
+
+An enterprise-grade AI code review platform that automatically analyzes pull requests using AST parsing, Control Flow Graphs, AI-powered review generation, security scanning, CI/CD integration, and intelligent code quality metrics.
+
+**Tech Stack**
+
+- Python
+- FastAPI
+- Docker
+- GitHub Actions
+- Tree-sitter
+- NetworkX
+- AI Agents
+- Gemini / LLM APIs
 
 ---
 
-### 🎤 Lecture Voice-to-Notes Generator
-- Developed a system that converts lecture audio into structured written notes automatically.
-- Uses **speech recognition and NLP techniques** to summarize key points.
+## 🏭 SAP Invoice Automation for Tata Steel
+
+Developed an AI-powered invoice processing workflow integrating OCR, document understanding, SAP automation, and validation pipelines.
+
+### Features
+
+- OCR Extraction
+- Intelligent Data Mapping
+- SAP Integration
+- Invoice Validation
+- Automated Workflow using n8n
 
 ---
 
-### 📺 YouTube Summary Analyzer
-- Built an AI tool that analyzes YouTube video transcripts and generates concise summaries.
-- Useful for quickly understanding long educational or informational videos.
-- Technologies: **Python, NLP**
+## 🔍 FLAUWDE — AI Text Detection Platform
+
+Built an AI-powered system that detects AI-generated content using multiple transformer-based detection models with confidence scoring and document analysis.
 
 ---
 
-### 🎥 Movie Recommendation System
-- Machine learning-based recommendation engine suggesting movies based on user preferences and similarity algorithms.
-- Technologies: **Python, ML algorithms**
+## 🧠 Game-Based Alzheimer's Detection
+
+An intelligent cognitive assessment platform using memory, reaction-time, sequence recall, and behavioral analytics to predict early Alzheimer's symptoms.
 
 ---
 
-### 🌐 Abhisha International – Deployed Business Website
-- Developed and deployed a professional website for a business organization.
-- Focused on responsive design, functionality, and user experience.
-- Technologies: **HTML, CSS, JavaScript**
+## 🎤 Lecture Voice-to-Notes Generator
+
+AI application that converts lectures into structured notes, summaries, and quizzes using speech recognition and NLP.
+
+Features:
+
+- Speech-to-Text
+- Automatic Summarization
+- Quiz Generation
+- Key Topic Extraction
 
 ---
 
-## 📚 Certifications
+## 🌐 Abhisha International Website
 
-- Pregrad AI/ML Program  
-- Udemy OpenCV Course  
-- Deloitte Australia Virtual Internship
-- IBM Artificial Intelligence
+Designed and deployed a responsive business website with modern UI and optimized performance.
 
 ---
 
-## 📫 Connect With Me
+# 📜 Certifications
 
-💼 LinkedIn: [*Saaransh Johri*  ](https://www.linkedin.com/in/saaransh-johri-58003b2b2/)
-🌐 Portfolio: [*SaaranshJohri*  ](https://saaranshjohri.github.io/Portfolio-Website/)
-📧 Email: johrisaaransh28@gmail.com
+✔ IBM Artificial Intelligence
 
-## 📊 GitHub Stats
+✔ Deloitte Australia Virtual Internship
 
-![Saaransh's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaaranshJohri&show_icons=true&theme=radical)
+✔ Pregrad AI/ML Program
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaaranshJohri&layout=compact)
+✔ OpenCV with Python (Udemy)
 
-![Python](https://img.shields.io/badge/Python-blue)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-orange)
-![PyTorch](https://img.shields.io/badge/PyTorch-red)
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SaaranshJohri&show_icons=true&theme=tokyonight"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaaranshJohri&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SaaranshJohri&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📫 Connect With Me
+
+📧 **Email**
+
+johrisaaransh28@gmail.com
+
+💼 **LinkedIn**
+
+https://www.linkedin.com/in/saaransh-johri-58003b2b2/
+
+🌐 **Portfolio**
+
+https://saaranshjohri.github.io/Portfolio-Website/
+
+---
+
+# ⚡ Currently Working On
+
+- 🤖 MergeMind AI Code Review Platform
+- 🏭 Enterprise AI Automation Workflows
+- 🧠 Agentic AI Systems
+- 🔍 AI-Powered Document Intelligence
+- 🚀 Open Source Contributions
+
+---
+
+> *"Building intelligent software that solves real-world problems through AI and automation."*
