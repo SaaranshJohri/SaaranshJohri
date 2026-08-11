@@ -195,7 +195,7 @@ https://www.linkedin.com/in/saaransh-johri-58003b2b2/
 
 🌐 **Portfolio**
 
-https://saaranshjohri.github.io/Portfolio-Website/
+https://saaranshjohri-portfolio.netlify.app/
 
 ---
 
